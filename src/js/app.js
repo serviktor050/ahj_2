@@ -1,1 +1,3 @@
-console.log('it works!');
+const gameField = document.querySelector('.game-field');
+
+console.dir("game-field-cell");
