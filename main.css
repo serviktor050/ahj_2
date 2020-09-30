@@ -1,0 +1,1 @@
+*{margin:0 auto;box-sizing:border-box}body{background:#0ff;text-align:center}.game-field{width:400px;height:400px;display:flex;flex-wrap:wrap;margin-top:50px}.game-field-cell{width:100px;height:100px;display:flex;border:1px solid #fff;margin:0}
